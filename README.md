@@ -1,2 +1,2 @@
 # Demo
-This is for Demo purposeg
+This is for Demo purpose
